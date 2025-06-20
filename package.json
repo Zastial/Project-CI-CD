@@ -1,0 +1,25 @@
+{
+  "name": "project_ci_cd",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "playwright": "playwright test"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3",
+    "eslint": "^8.0.0",
+    "jest": "^27.0.0",
+    "playwright": "^1.0.0"
+  }
+}
