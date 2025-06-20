@@ -1,5 +1,6 @@
 # Project CI/CD
-
+[![Node.js CI](https://github.com/Zastial/Project-CI-CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Zastial/Project-CI-CD/actions/workflows/ci.yml)
+[![Playwright Tests](https://github.com/Zastial/Project-CI-CD/actions/workflows/playwright.yml/badge.svg)](https://github.com/Zastial/Project-CI-CD/actions/workflows/playwright.yml)
 ## Description
 This project is a Node.js application that demonstrates continuous integration and continuous deployment (CI/CD) practices. It includes automated testing using Jest and browser automation testing with Playwright.
 
@@ -40,9 +41,3 @@ This project uses ESLint for linting JavaScript code. You can run ESLint with th
 ```
 npx eslint src/
 ```
-
-## Testing
-The project includes unit tests written with Jest. You can find the test cases in the `tests` directory. 
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request  for any improvements or bug fixes.
