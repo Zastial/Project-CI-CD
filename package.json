@@ -7,6 +7,7 @@
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
+    "build": "echo \"No build step defined\"",
     "test": "jest",
     "lint": "eslint .",
     "playwright": "playwright test"
