@@ -1,6 +1,10 @@
 # Project CI/CD
 [![Node.js CI](https://github.com/Zastial/Project-CI-CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Zastial/Project-CI-CD/actions/workflows/ci.yml)
 [![Playwright Tests](https://github.com/Zastial/Project-CI-CD/actions/workflows/playwright.yml/badge.svg)](https://github.com/Zastial/Project-CI-CD/actions/workflows/playwright.yml)
+
+# Author
+Alexandre CAROL - IW 4e année
+
 ## Description
 This project is a Node.js application that demonstrates continuous integration and continuous deployment (CI/CD) practices. It includes automated testing using Jest and browser automation testing with Playwright.
 
