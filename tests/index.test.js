@@ -1,4 +1,4 @@
-const { sum } = require('../src/index.js');
+const { sum } = require('../src/sum.js');
 
 describe('sum', () => {
   test('adds two positive numbers', () => {
